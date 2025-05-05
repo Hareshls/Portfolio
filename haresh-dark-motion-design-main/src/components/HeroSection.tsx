@@ -87,7 +87,7 @@ const HeroSection: React.FC = () => {
             <div className="w-64 h-64 md:w-80 md:h-80 rounded-full overflow-hidden border-4 border-accent-cyan/20 p-1 animate-float">
               {/* Replace with Haresh's actual image */}
               <div className="w-full h-full rounded-full bg-gradient-to-br from-accent-cyan/30 to-accent-pink/30 flex items-center justify-center text-3xl text-white">
-              <img src='WhatsApp Image 2025-05-04 at 22.59.31_48238543.jpg'></img>
+              <img src='images\WhatsApp Image 2025-05-04 at 22.59.31_48238543.jpg'></img>
                 
               </div>
             </div>
