@@ -16,7 +16,7 @@ const projects: Project[] = [
     title: 'Food Delivery App',
     category: 'UI/UX Design',
     description: 'Seamlessly designed with intuitive UI/UX for a smooth, effortless food ordering experience.',
-    image: '22654312_67Z_2112.w009.n001.83B.p14.83.jpg',
+    image: 'https://res.cloudinary.com/dllnqyjmn/image/upload/v1746418736/22654312_67Z_2112.w009.n001.83B.p14.83_eo9jhg.jpg',
     link: 'https://www.figma.com/proto/WSUxLNLoGijila6CCaAdeP/burger?node-id=212-29&t=qYCEcd3okehyOSUO-1'
   },
   {
@@ -24,7 +24,7 @@ const projects: Project[] = [
     title: 'Nike App UI Design',
     category: 'UI/UX Design',
     description: 'Bold and intuitive UI delivering a seamless Nike shopping experience.',
-    image: 'online-shopping-concept.jpg',
+    image: 'https://res.cloudinary.com/dllnqyjmn/image/upload/v1746418732/online-shopping-concept_ta3vyv.jpg',
     link: 'https://dribbble.com/shots/25980913-NIKE-APP-UI-DESIGN?utm_source=Clipboard_Shot&utm_campaign=Haresh_L_S&utm_content=NIKE%20APP%20UI%20DESIGN&utm_medium=Social_Share&utm_source=Clipboard_Shot&utm_campaign=Haresh_L_S&utm_content=NIKE%20APP%20UI%20DESIGN&utm_medium=Social_Share'
   },
   {
@@ -32,7 +32,7 @@ const projects: Project[] = [
     title: 'Air Max Headset',
     category: 'UI/UX Design',
     description: 'Clean and immersive UI design crafted for effortless control of the AIR MAX headset experience.',
-    image: 'headphones-displayed-against-dark-background (1).jpg',
+    image: 'https://res.cloudinary.com/dllnqyjmn/image/upload/v1746418730/headphones-displayed-against-dark-background_1_z3xvrr.jpg',
     link: 'https://dribbble.com/shots/25980965-AIR-MAX-HEADSET-UI-UX-DESIGN?utm_source=Clipboard_Shot&utm_campaign=Haresh_L_S&utm_content=AIR%20MAX%20HEADSET%20UI%2FUX%20DESIGN&utm_medium=Social_Share&utm_source=Clipboard_Shot&utm_campaign=Haresh_L_S&utm_content=AIR%20MAX%20HEADSET%20UI%2FUX%20DESIGN&utm_medium=Social_Share'
   },
   {
@@ -40,7 +40,7 @@ const projects: Project[] = [
     title: 'Auto Irrigator App UI Design',
     category: 'UI/UX Design',
     description: 'Smart and minimal UI crafted for seamless control of automated irrigation systems.',
-    image: 'refreshment-from-as-sprinklers-arc-water-geometric-greenery-fields.jpg',
+    image: 'https://res.cloudinary.com/dllnqyjmn/image/upload/v1746418733/refreshment-from-as-sprinklers-arc-water-geometric-greenery-fields_gwdm20.jpg',
     link: 'https://dribbble.com/shots/25981011-AUTO-IRRIGATOR-APP-UI-DESIGN?utm_source=Clipboard_Shot&utm_campaign=Haresh_L_S&utm_content=AUTO%20IRRIGATOR%20APP%20UI%20DESIGN&utm_medium=Social_Share&utm_source=Clipboard_Shot&utm_campaign=Haresh_L_S&utm_content=AUTO%20IRRIGATOR%20APP%20UI%20DESIGN&utm_medium=Social_Share'
   },
 
@@ -49,7 +49,7 @@ const projects: Project[] = [
     title: 'Nike poster - LeBron Edition',
     category: 'Graphic Design',
     description: '',
-    image: 'basketball-shoes-girl.jpg',
+    image: 'https://res.cloudinary.com/dllnqyjmn/image/upload/v1746419109/basketball-shoes-girl-min_zwv7t0.jpg',
     link: 'https://dribbble.com/shots/25913484-NIKE-LEBRON-NXXT-GENISUS-QS-EP?utm_source=Clipboard_Shot&utm_campaign=Haresh_L_S&utm_content=NIKE%20LEBRON%20NXXT%20GENISUS%20QS%20EP&utm_medium=Social_Share&utm_source=Clipboard_Shot&utm_campaign=Haresh_L_S&utm_content=NIKE%20LEBRON%20NXXT%20GENISUS%20QS%20EP&utm_medium=Social_Share'
   },
 
@@ -58,7 +58,7 @@ const projects: Project[] = [
     title: 'The Souled Store - Black Panter Edition',
     category: 'Graphic Design',
     description: '',
-    image: '1733821981_8530093.jpg',
+    image: 'https://res.cloudinary.com/dllnqyjmn/image/upload/v1746418727/1733821981_8530093_nzjtsd.jpg',
     link: 'https://dribbble.com/shots/25913495-THE-SOUL-STORE-Black-Panter-Edition?utm_source=Clipboard_Shot&utm_campaign=Haresh_L_S&utm_content=THE%20SOUL%20STORE%20%22Black%20Panter%20Edition%22&utm_medium=Social_Share&utm_source=Clipboard_Shot&utm_campaign=Haresh_L_S&utm_content=THE%20SOUL%20STORE%20%22Black%20Panter%20Edition%22&utm_medium=Social_Share'
   },
 
@@ -67,7 +67,7 @@ const projects: Project[] = [
     title: 'Starbucks',
     category: 'Graphic Design',
     description: '',
-    image: '100501.webp',
+    image: 'https://res.cloudinary.com/dllnqyjmn/image/upload/v1746418726/100501_hjzoyi.webp',
     link: 'https://dribbble.com/shots/25913502-STARBUCKS-Frappuccino-Chilled-Coffee?utm_source=Clipboard_Shot&utm_campaign=Haresh_L_S&utm_content=STARBUCKS%20%22%20Frappuccino%20Chilled%20Coffee%22&utm_medium=Social_Share&utm_source=Clipboard_Shot&utm_campaign=Haresh_L_S&utm_content=STARBUCKS%20%22%20Frappuccino%20Chilled%20Coffee%22&utm_medium=Social_Share'
   },
 
@@ -76,7 +76,7 @@ const projects: Project[] = [
     title: 'Nike-Air Jordon',
     category: 'Graphic Design',
     description: '',
-    image: 'nikes-senior-designer-explains-what-went-into-new-air-jordan-01.webp',
+    image: 'https://res.cloudinary.com/dllnqyjmn/image/upload/v1746418726/nikes-senior-designer-explains-what-went-into-new-air-jordan-01_dpwfbv.webp',
     link: 'https://dribbble.com/shots/25913511-NIKE-Air-Jordon?utm_source=Clipboard_Shot&utm_campaign=Haresh_L_S&utm_content=NIKE%20%20%22%20Air%20Jordon%22&utm_medium=Social_Share&utm_source=Clipboard_Shot&utm_campaign=Haresh_L_S&utm_content=NIKE%20%20%22%20Air%20Jordon%22&utm_medium=Social_Share'
 
 
